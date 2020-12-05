@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  margin: 0%;
+  padding: 0%;
+  color: #AD343E;
+}
+
+.header{
+  background-color: #DDD8B8;
+  width: 100%;
+  border-bottom: 5px solid #272361;
+}
+
+.logo {
+  height: 150px;
+  width: 150px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.title {
+  position: fixed;
+  bottom: 50%;
+  left:25%;
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #477CB4;
+  color: white;
+  text-align: center;
+  padding-bottom: 8px;
+}
